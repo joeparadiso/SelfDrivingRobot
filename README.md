@@ -1,7 +1,5 @@
 # SelfDrivingRobot
 
-![robot_image](https://user-images.githubusercontent.com/82463730/190691295-3c22a76d-eea7-4296-9dc7-c42cc5345149.JPG)
-
 This repository has the Arduino code for a self driving vehicle
 
 Description:
@@ -12,3 +10,5 @@ colors.h -- This is the header file that contains the code for changing the LED 
 robot.h -- This is the header file that contains the global variables, declarations, and definitions for the many parts of the self driving robot and its code. This file also contains custom functions that were used to control the movement of the vehicle.
 
 JARVIS_MARK_II_V8.4.ino -- This is the main program used to control the self driving robot. This program was developed as a state machine where, depending on the environment, the robot would switch to the appropriate state to address the environment. For example, once the robot begins moving, it goes into a random movement state. As it maneuvers the competition arena, it encounters fixed obstacles on the ground. If the obstacle was detected using the limit switch on the front left of the robot, the state switches from randomMovement to bumperAvoid. The bumperAvoid state executes code that is designed to handle fixed obstacles on the ground. Once bumperAvoid has been executed, the state returns to randomMovement until the next event occurs.
+
+![robot_image](https://user-images.githubusercontent.com/82463730/190691295-3c22a76d-eea7-4296-9dc7-c42cc5345149.JPG)
