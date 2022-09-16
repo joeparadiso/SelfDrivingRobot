@@ -1,6 +1,6 @@
 # SelfDrivingRobot
 
-https://drive.google.com/file/d/1A5O15HwhZg4k6jZW3ySMPb5zB7DOfLfu/view?usp=sharing
+![robot_image](https://user-images.githubusercontent.com/82463730/190691295-3c22a76d-eea7-4296-9dc7-c42cc5345149.JPG)
 
 This repository has the Arduino code for a self driving vehicle
 
