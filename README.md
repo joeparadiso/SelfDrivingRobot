@@ -81,9 +81,7 @@ This project relies on the following Arduino libraries:
 
 ### Prototype Views
 Below are images of the final robot configuration used in competition.
-
-![Front View](https://user-images.githubusercontent.com/82463730/190691295-3c22a76d-eea7-4296-9dc7-c42cc5345149.JPG)
-
-![robot_image](https://user-images.githubusercontent.com/82463730/190691295-3c22a76d-eea7-4296-9dc7-c42cc5345149.JPG)
-![robot_image2](https://user-images.githubusercontent.com/82463730/190691714-586f9eb8-0394-4ae1-856e-748255ca5787.JPG)
-![robot_image3](https://user-images.githubusercontent.com/82463730/190691745-a0e02656-d05f-4675-a05b-f78f5a010c53.JPG)
+|                         **Image One**                                        |                       **Image Two**                          |                       **Image Three**                          |
+| :--------------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/82463730/190691295-3c22a76d-eea7-4296-9dc7-c42cc5345149.JPG" alt="Robot Img" width=400/> |  <img src="https://user-images.githubusercontent.com/82463730/190691714-586f9eb8-0394-4ae1-856e-748255ca5787.JPG" alt="Robot Img" width=400/>   |  <img src="https://user-images.githubusercontent.com/82463730/190691745-a0e02656-d05f-4675-a05b-f78f5a010c53.JPG" alt="Robot Img" width=400/>   |
+|     _Front view of the Self Driving Robot._      | _Side view of the Self Driving Robot._ | _Rear view of the Self Driving Robot._ |
